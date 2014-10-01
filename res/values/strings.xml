@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrotherProfiles</string>
+    <string name="action_settings">Settings</string>
+   
+	<string name="Name_text_view">Name</string>
+	<string name="Name_edit_text">Name</string>
+	<string name="Position_text_view">Position</string>
+	<string name="Position_edit_text">Position</string>
+	<string name="Class_text_view">Class</string>
+	<string name="Class_edit_text">Class</string>
+	<string name="Big_text_view">Big</string>
+	<string name="Big_edit_text">Big</string>
+	<string name="little_text_view">little</string>
+	<string name="little_edit_text">Little</string>
+	<string name="PrevPos_text_view">Previous Position</string>
+	<string name="PrevPos_edit_text">Previous Position</string>
+	<string name="Age_text_view">Age</string>
+	<string name="Age_edit_text">Age</string>
+	<string name="Employment_text_view">Employment</string>
+	<string name="Employment_edit_text">Employment</string>
+	<string name="Major_text_view">Major</string>
+	<string name="Major_edit_text">Major</string>
+	<string name="From_text_view">From</string>
+	<string name="From_edit_text">From</string>
+	<string name="q1_edit_text">Cartoon Character you relate to?</string>
+	<string name="q2_edit_text">Best Character trait?</string>
+	<string name="save">Save</string>
+</resources>
